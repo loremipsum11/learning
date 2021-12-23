@@ -124,7 +124,7 @@ this is a multi line code block
 # Tables
 
 | Column 1 | Column 2 | Column 3 | 
-|:------:|:------|------:|
+|:-----------------:|:------|------:|
 |records|dujhfi|record| 
 |records1|records1|record1| 
 
